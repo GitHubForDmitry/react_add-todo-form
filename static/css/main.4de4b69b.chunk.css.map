@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAMA,gBACE,aAAc,CACd,aAAc,CACd,iBACF,CAEA,kBACE,SACF","file":"main.4de4b69b.chunk.css","sourcesContent":["#root {\n  display: block;\n  margin: 0 auto;\n  text-align: center;\n}\n\n#root > div {\n  display: block;\n  margin: 0 auto;\n  text-align: center;\n}\n\n.App__error--text {\n  color: red;\n}\n"]}
